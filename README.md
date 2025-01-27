@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Olamilekan Owolemi @nakelcode
-- 👀 I’m a developer that specialize in building website and applications...
-- 🌱 I’m currently learning and expanding my skills to include backend development...
-- 💞️ I’m looking to collaborate and contribute if you have any interesting projects or problems to solve...
-- 📫 How to reach me [Instagram](https://www.instagram.com/nakel_code?igsh=d2FxdTFidXlpa2xw&utm_souce=qr)...
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: Coding is fun ...
+- Olamilekan Owolemi
+  Frond-end Developer | Aspiring Full Stack Developer
+  📧 : olamilekanowolemi1@gmail.com
+  📞 : +2348088047934
+  📍: Lagos, Nigeria
+  
+- 🛠 Skills : HTML, CSS, Javascript, Tailwind CSS,
+  
+- 💻 Work experience
+
+- 🌍 Languages :
+
+  English : Fluent
+
+  
+- 🧠 Soft Skills : 
 
 <!---
 nakelcode/nakelcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
