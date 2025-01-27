@@ -7,14 +7,21 @@
   📞 : +2348088047934
   
   📍: Lagos, Nigeria
+
+
   
 - 🛠 Skills : HTML, CSS, Javascript, Tailwind CSS,
+
+  
   
 - 💻 Work experience
+
+  
 
 - 🌍 Languages :
 
   English : Fluent
+  
 
   
 - 🧠 Soft Skills : 
