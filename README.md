@@ -10,7 +10,7 @@
 
 
   
-- 🛠 Skills : HTML, CSS, Javascript, Tailwind CSS,
+- 🛠 Skills : HTML, CSS, Javascript, Tailwind CSS, PHP, MySQL, Git
 
   
   
